@@ -1,13 +1,16 @@
+/* Defines the attributes of all the elements of the page, it is a universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Changes the background color of body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Changes the background color, font, test color and padding in header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/* Changes font size  and made the heading as inline block  */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changes the color of seo in Horiseon  */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changes the properties of the links  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Defines the attributes of main block of page  */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/* Defines the attributes of side panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -112,6 +120,7 @@ p {
     max-width: 150px;
 }
 
+/* Defines the attributes of the sections of page  */
 .horiseon-feature {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,6 +139,7 @@ p {
     font-size: 36px;
 }
 
+/* Defines the attributes of the footer  */
 footer {
     padding: 30px;
     clear: both;
