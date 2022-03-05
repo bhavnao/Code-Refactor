@@ -16,6 +16,8 @@ without changing the functionality of the website. It was a good first project a
   <img src="./assets/images/screenshot-1.png"/>
 
   ## Link to the deployed application
+  https://bhavnao.github.io/HW-1-Code-Refactor/
+
 
 
        
